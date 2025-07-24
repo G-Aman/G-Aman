@@ -18,6 +18,7 @@
   Always eager to embrace new technologies and contribute to innovative projects.
 </p>
 
+---
 
 <p align="center">
   <img src="https://static.amang.in/logo.png" alt="Amang.in Logo" height="30" />
