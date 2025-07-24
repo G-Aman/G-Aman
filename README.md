@@ -1,17 +1,31 @@
+<p align="center">
+  <img src="https://static.amang.in/icon.png" alt="G. Aman Profile Icon" width="120" height="120" />
+</p>
+
+<h1 align="center" style="font-weight:600; color:#263238;">Aman G.</h1>
 
 <p align="center">
-  <img src="https://static.amang.in/icon.png" alt="G. Aman Profile Icon" width="140" height="140" />
+  <strong>Server Management</strong> &nbsp;|&nbsp; <strong>Full Web Development</strong>
 </p>
-<h1 align="center">Aman G.</h1>
 
 <p align="center">
-  <strong>Server Management</strong> &nbsp;|&nbsp; <strong>Web Development</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=blue&center=true&vCenter=true&width=340&lines=Tech+Enthusiast;Reliable+%26+Scalable+Solutions;Synergy+of+Backend+%26+Frontend;Exploring+New+Technologies" alt="Typing Animation" />
 </p>
+
+---
 
 <p align="left">
-  A dedicated professional focused on efficient <strong>server management</strong> and crafting engaging web experiences.<br>
-  Exploring the synergy between robust backend systems and user-friendly front-end development.
+  A dedicated professional focused on efficient server management and crafting engaging web experiences.<br>
+  Exploring the synergy between robust backend systems and user-friendly front-end development.<br><br>
+
 </p>
+
+<ul align="left">
+  <li>🛠️ <strong>Reliable &amp; Scalable Solutions</strong></li>
+  <li>🚀 <strong>Always exploring new technologies</strong></li>
+  <li>🤝 <strong>Open to innovative collaborations</strong></li>
+  <li>💡 <strong>Tech enthusiast, constantly learning &amp; experimenting</strong></li>
+</ul>
 
 <p align="left">
   Passionate about creating reliable and scalable solutions.<br>
@@ -21,38 +35,5 @@
 ---
 
 <p align="center">
-  <img src="https://static.amang.in/logo.png" alt="Amang.in Logo" height="30" />
-</p>
-
-
-<img src="https://static.amang.in/logo.png" alt="G-Aman Logo" width="120" align="right">
-
-# Hi, I'm G-Aman! <img src="https://static.amang.in/icon.png" alt="G-Aman Icon" width="32">
-
-**Server Management  |  Web Development**
-
----
-
-A dedicated professional focused on efficient server management and crafting engaging web experiences.  
-Exploring the synergy between robust backend systems and user-friendly front-end development.
-
-## 🚀 About Me
-- **Passionate about creating reliable and scalable solutions**
-- **Always eager to embrace new technologies and contribute to innovative projects**
-- **Tech enthusiast**—constantly exploring, testing, and developing new things
-
-## 🛠️ Skills & Technologies
-- **Linux** (server management & automation)
-- **Docker** (container orchestration & deployment)
-- **n8n** (automation workflows)
-- **Web Development**  
-  &nbsp; └─ HTML, CSS, PHP, DB (database management)
-
-## 📈 Motto
-> Exploring the synergy between robust backend systems and user-friendly front-end development.
-
----
-
-<p align="center">
-  <img src="https://static.amang.in/logo.png" alt="G-Aman Logo" width="60">
+  <img src="https://static.amang.in/logo.png" alt="Amang.in Logo" height="28" />
 </p>
